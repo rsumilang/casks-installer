@@ -36,6 +36,7 @@ $INSTALL_CMD virtualbox
 ###########################
 # Enterprise
 #$INSTALL_CMD citrix-receiver
+$INSTALL_CMD paymo-widget
 
 
 
@@ -48,8 +49,9 @@ $INSTALL_CMD google-chrome
 
 ###########################
 # Media
+#$INSTALL_CMD jaksta
+#$INSTALL_CMD makemkv
 $INSTALL_CMD mediaelch
-$INSTALL_CMD miro-video-converter
 $INSTALL_CMD videospec
 $INSTALL_CMD vlc
 
@@ -63,7 +65,10 @@ $INSTALL_CMD spotify
 
 ###########################
 # Tools
+#$INSTALL_CMD calibre
 $INSTALL_CMD dropbox
+$INSTALL_CMD handbrake
+$INSTALL_CMD miro-video-converter
 
 
 
