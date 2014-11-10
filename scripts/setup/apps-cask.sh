@@ -64,6 +64,18 @@ $INSTALL_CMD spotify
 
 
 ###########################
+# Productivity
+$INSTALL_CMD evernote
+
+
+
+###########################
+# Security
+$INSTALL_CMD lastpass-universal
+
+
+
+###########################
 # Tools
 #$INSTALL_CMD calibre
 $INSTALL_CMD dropbox
