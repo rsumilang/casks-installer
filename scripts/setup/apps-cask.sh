@@ -12,6 +12,7 @@ INSTALL_CMD="brew cask install --appdir=/Applications"
 ###########################
 # Communication
 $INSTALL_CMD colloquy
+$INSTALL_CMD gitter
 $INSTALL_CMD propane
 #$INSTALL_CMD skype
 
