@@ -16,6 +16,9 @@ this option will install all the categories onto the machine.
 The default location cask uses for Application shortcuts is `~/Applications`. I
 change this setting in my install command to point to `/Applications`.
 
+I should also mention that this will install homebrew and cask for you
+automatically if you don't have it.
+
 # License
 
 This was created by [Richard Sumilang](http://richardsumilang.com/) and is
