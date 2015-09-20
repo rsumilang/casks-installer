@@ -19,6 +19,12 @@ change this setting in my install command to point to `/Applications`.
 I should also mention that this will install homebrew and cask for you
 automatically if you don't have it.
 
+## Uninstall
+
+The same `appdir` must be specified when uninstalling an app. For example:
+
+    brew cask uninstall --appdir=/Applications foo
+
 # License
 
 This was created by [Richard Sumilang](http://richardsumilang.com/) and is
