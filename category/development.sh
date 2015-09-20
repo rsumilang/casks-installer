@@ -10,6 +10,7 @@ $INSTALL_CMD filezilla
 $INSTALL_CMD gas-mask
 $INSTALL_CMD geektool
 $INSTALL_CMD intellij-idea
+$INSTALL_CMD transmit
 $INSTALL_CMD robomongo
 $INSTALL_CMD sequel-pro
 $INSTALL_CMD sourcetree
