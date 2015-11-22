@@ -4,4 +4,4 @@
 ###########################
 INSTALL_CMD=$1
 
-$INSTALL_CMD lastpass-universal
+$INSTALL_CMD lastpass
