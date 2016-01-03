@@ -6,6 +6,7 @@ INSTALL_CMD=$1
 
 $INSTALL_CMD atom
 $INSTALL_CMD charles
+$INSTALL_CMD dockertoolbox
 $INSTALL_CMD filezilla
 $INSTALL_CMD gas-mask
 #$INSTALL_CMD geektool
