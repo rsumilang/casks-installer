@@ -4,6 +4,7 @@
 ###########################
 INSTALL_CMD=$1
 
+$INSTALL_CMD audacity
 #$INSTALL_CMD jaksta
 #$INSTALL_CMD makemkv
 $INSTALL_CMD mediaelch
